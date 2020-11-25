@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\bin\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.exe
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\bin\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.deps.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\bin\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\bin\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\bin\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\bin\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\obj\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\obj\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\obj\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\obj\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\obj\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\obj\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - vetores\Exercício - escrever dados na ordem inversa\obj\Debug\netcoreapp3.1\Exercício - escrever dados na ordem inversa.genruntimeconfig.cache
